@@ -28,14 +28,14 @@ h5 {
     font-family:verdana;
 }
 
-#link {
+.link {
     color:white;
     text-align:center;
     font-family:verdana;
     text-decoration:none;
 }
 
-#linkDiv {
+.linkDiv {
     width:100%;
     text-align:center;
 }
